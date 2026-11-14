@@ -1,0 +1,6 @@
+out/
+dist/
+*.o
+*.elf
+*.nro
+__pycache__/
